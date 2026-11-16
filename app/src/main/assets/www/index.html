@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#1e5eff">
+<title>国际金融（初级）题库</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="appbar">
+  <div class="logo" id="app-logo"></div>
+  <div class="title">国际金融题库</div>
+  <div class="spacer"></div>
+  <div class="ver">初级 · 建行</div>
+</div>
+
+<div class="page" id="page-home"></div>
+<div class="page" id="page-graph"></div>
+<div class="page" id="page-chapters"></div>
+<div class="page" id="page-quiz"></div>
+<div class="page" id="page-exam-setup"></div>
+
+<script src="bank.js"></script>
+<script src="app.js"></script>
+<script src="app2.js"></script>
+<script src="quiz.js"></script>
+<script src="exam.js"></script>
+<script>
+document.getElementById('app-logo').innerHTML = window.__app.logo();
+</script>
+</body>
+</html>

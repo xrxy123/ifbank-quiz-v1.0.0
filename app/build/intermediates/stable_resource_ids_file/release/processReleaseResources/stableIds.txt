@@ -1,0 +1,6 @@
+com.ifbank.quiz:style/AppTheme = 0x7f040000
+com.ifbank.quiz:drawable/ic_launcher_background = 0x7f010000
+com.ifbank.quiz:mipmap/ic_launcher = 0x7f020000
+com.ifbank.quiz:drawable/ic_launcher_foreground = 0x7f010001
+com.ifbank.quiz:string/app_name = 0x7f030000
+com.ifbank.quiz:mipmap/ic_launcher_round = 0x7f020001

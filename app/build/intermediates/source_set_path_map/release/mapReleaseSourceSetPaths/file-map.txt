@@ -1,0 +1,7 @@
+com.ifbank.quiz.app-pngs-0 C:\Users\XIE\WorkBuddy\题库\android\app\build\generated\res\pngs\release
+com.ifbank.quiz.app-resValues-1 C:\Users\XIE\WorkBuddy\题库\android\app\build\generated\res\resValues\release
+com.ifbank.quiz.app-packageReleaseResources-2 C:\Users\XIE\WorkBuddy\题库\android\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.ifbank.quiz.app-packageReleaseResources-3 C:\Users\XIE\WorkBuddy\题库\android\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.ifbank.quiz.app-release-4 C:\Users\XIE\WorkBuddy\题库\android\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.ifbank.quiz.app-main-5 C:\Users\XIE\WorkBuddy\题库\android\app\src\main\res
+com.ifbank.quiz.app-release-6 C:\Users\XIE\WorkBuddy\题库\android\app\src\release\res
